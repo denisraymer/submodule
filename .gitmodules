@@ -1,0 +1,3 @@
+[submodule "sm-shared"]
+	path = sm-shared
+	url = git@github.com:denisraymer/shared.git
